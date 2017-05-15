@@ -4,6 +4,6 @@
 <i>Final project for Geog 136 Advanced GIS</i>
 <br />
 <h4><i>Script Interface</i></h4>
-<img src="https://github.com/beachcamp/Guzzler-Scanner/user_interface.png" />
+<img src="https://github.com/beachcamp/Guzzler-Scanner/script_interface.png" />
 
 <br />
